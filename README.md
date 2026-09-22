@@ -54,3 +54,6 @@ Projeto realizado como atividade de extensão por:
 **LaraFernandessM e Luigins** - Design
 
 ---
+
+<img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/d38f0d96-b956-495f-9db6-256737b53d87" />
+
